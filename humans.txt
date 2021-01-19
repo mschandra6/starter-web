@@ -15,4 +15,8 @@ snlsbl
 # Technology
 
     HTML5, CSS3
+
     jQuery, AWS AZURE
+=======
+    jQuery, Deveops. jenkins
+
