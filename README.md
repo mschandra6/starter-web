@@ -9,5 +9,10 @@ Sample website with plenty of files for demos
 all are good
 ## good 
 now here iam
+<<<<<<< HEAD
 hell o 
 what happend
+=======
+## hi how r u
+hello
+>>>>>>> mynewbranch
