@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    BALA
 
 # TECHNOLOGY COLOPHON
  hasan
@@ -15,5 +15,4 @@ snlsbl
 # Technology
 
     HTML5, CSS3
-    jQuery, Modernizr
-vjvdb
+    jQuery, AWS AZURE
