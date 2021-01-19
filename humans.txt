@@ -15,5 +15,4 @@ snlsbl
 # Technology
 
     HTML5, CSS3
-    jQuery, Modernizr
-vjvdb
+    jQuery, Deveops. jenkins
