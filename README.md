@@ -16,3 +16,5 @@ what happend
 ## hi how r u
 hello
 >>>>>>> mynewbranch
+hii helle  
+how are you
